@@ -10,7 +10,7 @@
 
 ### 这是什么？
 
-OpenAI Codex 扩展在 VS Code、Trae 等 IDE 中，左侧活动栏的图标经常会消失。每次扩展更新后都会复发。
+OpenAI Codex 扩展在 VS Code、Trae 等 IDE 中，左侧活动栏的图标经常会消失，导致无法正常在 IDE 内使用 Codex 插件。每次扩展更新后都会复发。
 
 本工具一键修复该问题。
 
