@@ -1,4 +1,4 @@
-# fix-codex-sidebar
+# vscode-codex-sidebar-fix
 
 > 基于 [xytss/codex-sidebar-fix](https://github.com/xytss/codex-sidebar-fix) — 新增 macOS / Linux 支持
 
