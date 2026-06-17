@@ -1,4 +1,4 @@
-# vscode-codex-sidebar-fix
+# vscode-codex-sidebar-fix：修复各种系统下vscode中codex侧边栏消失!
 
 > 基于 [xytss/codex-sidebar-fix](https://github.com/xytss/codex-sidebar-fix) — 新增 macOS / Linux 支持
 
